@@ -3,6 +3,10 @@
 <!-- ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB) -->
 
 
+[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=mansur3)](https://github.com/mansur3)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mansur3&layout=compact)](https://github.com/mansur3)
+
+
 <!-- 
 **mansur3/mansur3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
