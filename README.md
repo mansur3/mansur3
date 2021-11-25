@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img src=”https://github.com/mansur3/mansur3/blob/main/OIP.jfif" alt=”my banner”>
+
 
 <!-- 
 **mansur3/mansur3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
