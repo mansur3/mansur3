@@ -28,7 +28,7 @@
 
 
 
-
+<!-- 
 ### Hi there 👋
 <!-- ![background_image_linkedin](https://user-images.githubusercontent.com/52737543/143396993-3a5377dd-92a5-49e5-9f1f-6eef1162f443.jpg) -->
 <!-- ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB) -->
@@ -52,5 +52,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 https://github.com/username/github-stats/blob/master/generated/overview.svg
- -->
+ --> -->
 
