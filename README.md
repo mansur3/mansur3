@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mansur Dewan</h1>
 <h3 align="center">Full Stack developer</h3>
+<p>A Passionate aspiring Full Stack Developer skilled in MERN stack, moulded and shaped by Masai school’s intensive and immersive learning. Look forward to joining a company where I will be able to contribute towards individual and company growth.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mansur3&label=Profile%20views&color=0e75b6&style=flat" alt="mansur3" /> </p>
 
