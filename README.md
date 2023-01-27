@@ -4,8 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mansur3&label=Profile%20views&color=0e75b6&style=flat" alt="mansur3" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="[![trophy](https://github-profile-trophy.vercel.app/?username=mansur3)](https://github.com/ryo-ma/github-profile-trophy)" alt="mansur3" /></a> 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mansur3" alt="mansur3" /></a> 
 </p>
 
 - 🌱 I’m currently learning **MERN**
