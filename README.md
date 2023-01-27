@@ -3,9 +3,9 @@
 <p>A Passionate aspiring Full Stack Developer skilled in MERN stack, moulded and shaped by Masai school’s intensive and immersive learning. Look forward to joining a company where I will be able to contribute towards individual and company growth.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mansur3&label=Profile%20views&color=0e75b6&style=flat" alt="mansur3" /> </p>
-
+<!-- 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mansur3" alt="mansur3" /></a> 
-</p>
+</p> -->
 
 - 🌱 I’m currently learning **MERN**
 <a href="https://github.com/mansur3/github-profile-trophy"><h2>🏆 Github Profile Trophy</h2></a>
