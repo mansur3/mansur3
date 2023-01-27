@@ -8,6 +8,10 @@
 </p>
 
 - 🌱 I’m currently learning **MERN**
+<a href="https://github.com/mansur3/github-profile-trophy"><h2>🏆 Github Profile Trophy</h2></a>
+<a href="https://github.com/mansur3/github-profile-trophy">
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=mansur3&column=8&theme=gruvbox&no-frame=true"/>
+</a>
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
