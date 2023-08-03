@@ -7,7 +7,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mansur3" alt="mansur3" /></a> 
 </p> -->
 
-- 🌱 I’m currently learning **MERN**
+- 🌱 I’m currently Working as a full stack developer
 <a href="https://github.com/mansur3/github-profile-trophy"><h2>🏆 Github Profile Trophy</h2></a>
 <a href="https://github.com/mansur3/github-profile-trophy">
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=mansur3&column=8&theme=gruvbox&no-frame=true"/>
